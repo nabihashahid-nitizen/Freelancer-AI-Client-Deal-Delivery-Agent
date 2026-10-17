@@ -1,4 +1,4 @@
-Freelancer AI Client Deal & Delivery Agent
+##Freelancer AI Client Deal & Delivery Agent
 A comprehensive multi-agent n8n workflow consisting of **66 nodes** designed to automate the full lifecycle of a content agency—from lead intake and AI requirements analysis to human approval gates, quality assurance loops, and automated invoicing.
 
 ---
